@@ -1,0 +1,44 @@
+{
+    "pools": {
+        "24dd0c49-cd61-4af0-a1a8-a1ff29db94f3": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "community",
+            "name": "oddball pool",
+            "source": {
+                "repo": "horizon-pool-odd",
+                "type": "github",
+                "user": "carrotIndustries"
+            },
+            "type_stats": {
+                "package": 1,
+                "symbol": 1,
+                "unit": 1
+            },
+            "uuid": "24dd0c49-cd61-4af0-a1a8-a1ff29db94f3"
+        },
+        "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6": {
+            "included": [],
+            "level": "core",
+            "name": "Horizon default pool. Use this one!",
+            "source": {
+                "repo": "horizon-pool",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "decal": 4,
+                "entity": 188,
+                "frame": 20,
+                "package": 270,
+                "padstack": 43,
+                "part": 29360,
+                "symbol": 264,
+                "unit": 211
+            },
+            "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+        }
+    },
+    "version": 1
+}
