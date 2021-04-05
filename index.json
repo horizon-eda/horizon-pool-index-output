@@ -1,22 +1,20 @@
 {
     "pools": {
-        "24dd0c49-cd61-4af0-a1a8-a1ff29db94f3": {
+        "60eec687-e03f-4311-94b3-71e16f14faa2": {
             "included": [
                 "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
             ],
-            "level": "community",
-            "name": "oddball pool",
+            "level": "extra",
+            "name": "TDK chip capacitors",
             "source": {
-                "repo": "horizon-pool-odd",
+                "repo": "horizon-pool-tdk-capacitors",
                 "type": "github",
-                "user": "carrotIndustries"
+                "user": "horizon-eda"
             },
             "type_stats": {
-                "package": 1,
-                "symbol": 1,
-                "unit": 1
+                "part": 2242
             },
-            "uuid": "24dd0c49-cd61-4af0-a1a8-a1ff29db94f3"
+            "uuid": "60eec687-e03f-4311-94b3-71e16f14faa2"
         },
         "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6": {
             "included": [],
@@ -29,15 +27,95 @@
             },
             "type_stats": {
                 "decal": 4,
-                "entity": 188,
+                "entity": 192,
                 "frame": 20,
-                "package": 270,
-                "padstack": 43,
-                "part": 29360,
-                "symbol": 264,
-                "unit": 211
+                "package": 276,
+                "padstack": 47,
+                "part": 29370,
+                "symbol": 268,
+                "unit": 215
             },
             "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+        },
+        "71c48295-6a54-4cfb-a7f6-8c867bbbfcc4": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "extra",
+            "name": "Yageo chip capacitors",
+            "source": {
+                "repo": "horizon-pool-yageo-capacitors",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "part": 2631
+            },
+            "uuid": "71c48295-6a54-4cfb-a7f6-8c867bbbfcc4"
+        },
+        "aad769f8-8856-43fc-8dcd-28616e4eccd6": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "extra",
+            "name": "Murata chip capacitors",
+            "source": {
+                "repo": "horizon-pool-murata-capacitors",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "part": 13709
+            },
+            "uuid": "aad769f8-8856-43fc-8dcd-28616e4eccd6"
+        },
+        "baebaf70-d651-429a-a1a3-84afba562a01": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "extra",
+            "name": "Samsung chip resistors (RC and RU series)",
+            "source": {
+                "repo": "horizon-pool-samsung-resistors",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "part": 4094
+            },
+            "uuid": "baebaf70-d651-429a-a1a3-84afba562a01"
+        },
+        "d21ad56f-56a7-41a7-9c8e-68c8e4d735e3": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "extra",
+            "name": "Panasonic chip resistors",
+            "source": {
+                "repo": "horizon-pool-panasonic-resistors",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "part": 4866
+            },
+            "uuid": "d21ad56f-56a7-41a7-9c8e-68c8e4d735e3"
+        },
+        "d2a88d60-9ad7-43b1-a905-8721b6906f40": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "extra",
+            "name": "Samsung chip capacitors",
+            "source": {
+                "repo": "horizon-pool-samsung-capacitors",
+                "type": "github",
+                "user": "horizon-eda"
+            },
+            "type_stats": {
+                "part": 1328
+            },
+            "uuid": "d2a88d60-9ad7-43b1-a905-8721b6906f40"
         }
     },
     "version": 1
