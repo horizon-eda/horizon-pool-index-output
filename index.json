@@ -27,13 +27,13 @@
             },
             "type_stats": {
                 "decal": 4,
-                "entity": 192,
+                "entity": 209,
                 "frame": 20,
-                "package": 276,
-                "padstack": 47,
-                "part": 500,
-                "symbol": 268,
-                "unit": 215
+                "package": 287,
+                "padstack": 48,
+                "part": 560,
+                "symbol": 286,
+                "unit": 232
             },
             "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
         },
