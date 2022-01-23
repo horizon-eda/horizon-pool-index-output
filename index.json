@@ -26,14 +26,14 @@
                 "user": "horizon-eda"
             },
             "type_stats": {
-                "decal": 4,
-                "entity": 209,
+                "decal": 6,
+                "entity": 220,
                 "frame": 20,
-                "package": 287,
-                "padstack": 48,
-                "part": 560,
-                "symbol": 286,
-                "unit": 232
+                "package": 300,
+                "padstack": 49,
+                "part": 600,
+                "symbol": 303,
+                "unit": 244
             },
             "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
         },
@@ -52,6 +52,22 @@
                 "part": 2631
             },
             "uuid": "71c48295-6a54-4cfb-a7f6-8c867bbbfcc4"
+        },
+        "a1d71ac9-2965-4f37-89bd-b77ef0a62e2b": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "community",
+            "name": "Rohm chip resistors",
+            "source": {
+                "repo": "horizon-pool-rohm-resistors",
+                "type": "github",
+                "user": "jue89"
+            },
+            "type_stats": {
+                "part": 301
+            },
+            "uuid": "a1d71ac9-2965-4f37-89bd-b77ef0a62e2b"
         },
         "aad769f8-8856-43fc-8dcd-28616e4eccd6": {
             "included": [
