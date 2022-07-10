@@ -26,14 +26,14 @@
                 "user": "horizon-eda"
             },
             "type_stats": {
-                "decal": 6,
-                "entity": 220,
-                "frame": 20,
-                "package": 300,
+                "decal": 7,
+                "entity": 223,
+                "frame": 40,
+                "package": 301,
                 "padstack": 49,
-                "part": 600,
-                "symbol": 303,
-                "unit": 244
+                "part": 605,
+                "symbol": 306,
+                "unit": 247
             },
             "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
         },
@@ -132,6 +132,22 @@
                 "part": 1328
             },
             "uuid": "d2a88d60-9ad7-43b1-a905-8721b6906f40"
+        },
+        "e2b915a4-7a2e-4fb8-b402-62ec983df413": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "community",
+            "name": "MacroFab House Parts",
+            "source": {
+                "repo": "horizon-pool-macrofab-house-parts",
+                "type": "github",
+                "user": "oxplot"
+            },
+            "type_stats": {
+                "part": 115
+            },
+            "uuid": "e2b915a4-7a2e-4fb8-b402-62ec983df413"
         }
     },
     "version": 1
