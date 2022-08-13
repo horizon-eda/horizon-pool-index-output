@@ -1,5 +1,22 @@
 {
     "pools": {
+        "4e745dc3-9973-4177-97f9-9a5a03062771": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "community",
+            "name": "Panasonic EEHZA polarized capacitors",
+            "source": {
+                "repo": "horizon-pool-panasonic-eehza-capacitors",
+                "type": "github",
+                "user": "atoav"
+            },
+            "type_stats": {
+                "package": 5,
+                "part": 27
+            },
+            "uuid": "4e745dc3-9973-4177-97f9-9a5a03062771"
+        },
         "60eec687-e03f-4311-94b3-71e16f14faa2": {
             "included": [
                 "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
