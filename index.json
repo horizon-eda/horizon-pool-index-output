@@ -1,5 +1,22 @@
 {
     "pools": {
+        "00001327-7f3e-4640-a573-ea228406b724": {
+            "included": [
+                "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
+            ],
+            "level": "community",
+            "name": "Yageo-TH-resistors",
+            "source": {
+                "repo": "horizon-pool-yageo-th-resistors",
+                "type": "github",
+                "user": "atoav"
+            },
+            "type_stats": {
+                "package": 2,
+                "part": 1866
+            },
+            "uuid": "00001327-7f3e-4640-a573-ea228406b724"
+        },
         "4e745dc3-9973-4177-97f9-9a5a03062771": {
             "included": [
                 "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
@@ -44,13 +61,13 @@
             },
             "type_stats": {
                 "decal": 7,
-                "entity": 223,
+                "entity": 224,
                 "frame": 40,
                 "package": 301,
                 "padstack": 49,
-                "part": 605,
-                "symbol": 306,
-                "unit": 247
+                "part": 606,
+                "symbol": 307,
+                "unit": 248
             },
             "uuid": "6d752bc3-29b3-45df-8cf2-1e3aacefbcc6"
         },
